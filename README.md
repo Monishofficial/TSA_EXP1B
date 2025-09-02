@@ -1,5 +1,5 @@
 # Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
-### Developed by: MONISH.N
+### Developed by: MONISH N
 ### Date: 31/08/2025
 
 ## AIM:
